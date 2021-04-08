@@ -12,6 +12,7 @@ This is a project that recognizes whether a plastic bottle has inner content or 
 - Controlled Environment for the image
 - Jupyter Notebook
 - WinSCP
+- Arduino LED, breadboard, cables
 
 ## Launch
 1. Download the Bottle_Classification File
